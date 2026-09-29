@@ -11,7 +11,7 @@ brute-forcing.
 Only run this against a system you own or are authorized to test - your
 own lab VM, a CTF box, whatever. Don't point it at anything else, that's
 illegal (CFAA in the US, similar laws elsewhere) and against pretty much
-every school's acceptable use policy.
+every school's acceptable use policy. And again this is for educational purposes only.
 
 ## Setup
 
