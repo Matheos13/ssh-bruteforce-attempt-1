@@ -2,6 +2,7 @@
 # ssh_bruteforce.py
 # Simple SSH login brute forcer using a wordlist. Made for my pentesting
 # course exercise - only run this on stuff you own (lab VM etc).
+# This is for educational purposes.
 
 import argparse
 import logging
@@ -29,7 +30,7 @@ def setup_logging(log_file):
     fh = logging.FileHandler(log_file)
     fh.setFormatter(fmt)
     logger.addHandler(fh)
-
+    
     return logger
 
 
